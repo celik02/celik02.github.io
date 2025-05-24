@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Emrullah Celik"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : 'emrullah-celik-03810b170'
+  linkedin         : 'emrullahcelik02'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
