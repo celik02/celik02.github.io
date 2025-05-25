@@ -1,6 +1,6 @@
 ---
 title: "Sound Frequency Controlled Motor"
-excerpt: "Sound Frequency Controlled Motor Driver<br/><img src='/images/500x300.png'>"
+excerpt: "Sound Frequency Controlled Motor Driver<br/><img src='/images/mc_circuit.png'>"
 collection: portfolio
 ---
 

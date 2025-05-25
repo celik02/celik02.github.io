@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Emrullah Celik"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -36,15 +36,17 @@ METU, Ankara, Turkiye
 ## Professional Experience
 
 **Graduate Research Assistant**, Boston University, Boston, MA
-*Sep 2023 – Aug 2025*
-- **Smart Hardware in the Loop Testbed (CARLA)**: Applied differentiable optimization to multi-agent traffic using a CBF-CLF quadratic-program controller with data-driven hyperparameter tuning.
-- Developed an end-to-end control stack integrating LiDAR & camera sensor fusion via deep learning for improved perception and safety.
-- Created a digital-twin hardware-in-the-loop simulation framework to transition seamlessly from simulated to physical robots.
-- Simulated mixed traffic scenarios with virtual and physical vehicles to reduce hardware requirements.
-- **Torque Vectoring on Quest-V RTOS**: Designing PID/MPC algorithms for three-motor torque vectoring in Simulink, targeting deployment on a miniature platform and later on the Drako GTE EV.
+<span style="float:right"> *Sep 2023 – Aug 2025*</span>
+- ### Smart City Hardware in the Loop Testbed with CARLA
+  - Applied differentiable optimization to multi-agent traffic using a CBF-CLF quadratic-program controller with data-driven hyperparameter tuning.
+  - Developed an end-to-end control stack integrating LiDAR & camera sensor fusion via deep learning for improved perception and safety.
+  - Created a digital-twin hardware-in-the-loop simulation framework to transition seamlessly from simulated to physical robots.
+  - Simulated mixed traffic scenarios with virtual and physical vehicles to reduce hardware requirements.
+- ### Torque Vectoring on Quest-V RTOS
+  - Designing PID/MPC algorithms for three-motor torque vectoring in Simulink, targeting deployment on a miniature platform and later on the Drako GTE EV.
 
 **Embedded Software Intern**, Giner Labs, Waltham, MA
-*May 2023 – Aug 2023*
+<span style="float:right"> *May 2023 – Aug 2023*</span>
 - Implemented proof-of-concept wearable firmware and LTspice circuit for custom electrochemical sensors.
 - Selected and procured circuit components to meet performance specifications.
 - Developed Nordic MCU firmware for data acquisition, storage, and real-time PC visualization via Python (UART).
@@ -52,12 +54,13 @@ METU, Ankara, Turkiye
 - Procured and utilized an oscilloscope for circuit validation and debugging.
 
 **Software Developer**, IKON R&D, Ankara, Turkiye
-*Dec 2021 – Aug 2022*
+<span style="float:right"> *Dec 2021 – Aug 2022*</span>
 - Developed visual-inertial navigation algorithms for VTOL UAVs using OpenVINS & VinsFusion in Docker on custom IMU+camera hardware.
 - Implemented ROS-based data synchronization, Kalibr-based IMU-camera calibration, and EKF sensor fusion in C++.
 - Optimized prototypes from Python to C++, achieving a 4× FPS increase on Jetson Nano.
+
 **Intern**, ASELSAN, Ankara, Turkiye
-*Aug 2021*
+<span style="float:right"> *Aug 2021*</span>
 - Integrated Milestone Video Management System with ASELSAN security infrastructure via IP protocol.
 - Developed Python algorithms for live/playback video streaming and designed a PyQT GUI for seamless visualization.
 
