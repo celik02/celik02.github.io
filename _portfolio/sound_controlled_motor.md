@@ -1,6 +1,6 @@
 ---
-title: "Sound Frequency Controlled Motor"
-excerpt: "Sound Frequency Controlled Motor Driver<br/><img src='/images/mc_circuit.png'>"
+title: "Real-Time Sound-Responsive Motor and RGB LED Controller"
+excerpt: "A real-time embedded system that analyzes microphone input via FFT to drive a DC motor’s speed and RGB LED’s brightness and color.<br/><img src='/images/mc_circuit.png'>"
 collection: portfolio
 ---
 
