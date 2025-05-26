@@ -3,6 +3,15 @@ title: "Home Security System"
 excerpt: "Home Security System<br/><img src='/images/home_security_system.png'>"
 collection: portfolio
 ---
+## Overview
+
+The Home Security Project is an end-to-end, AI-driven monitoring system built around an NVIDIA Jetson Nano that delivers real-time intrusion detection, identity recognition, and remote control—all for under \$200 in hardware. Stereo CSI and ESP32-CAM modules capture video streams, while PIR sensors trigger motion-based alerts and guide active pan-tilt adjustments. On-board inference pipelines (MultiCue + YOLOv4-Tiny + dlib embeddings) classify individuals as Residents, Visitors, or Intruders, logging events locally and pushing snapshots and logs to Google Drive for off-site review. A companion mobile app (MIT App Inventor) provides live notifications, camera control, and event history, enabling homeowners to securely monitor and manage their property from anywhere.
+
+
+<figure>
+  <img src='/images/home_security_high_res.JPG' style="width: 70%; max-width: 700px; height: auto;">
+  <!-- <figcaption>Figure: Block diagram of the overall system and data flow.</figcaption> -->
+</figure>
 
 ## Components
 
@@ -26,7 +35,7 @@ collection: portfolio
 ## Subsystems
 
 <figure>
-  <img src='/images/data_flow_home_security.png'>
+  <img src='/images/data_flow_home_security_.png' style="width: 70%; max-width: 700px; height: auto;">
   <figcaption>Figure: Block diagram of the overall system and data flow.</figcaption>
 </figure>
 
@@ -34,6 +43,7 @@ collection: portfolio
 Acquires raw data from cameras and motion detectors:
 
 - **Wired & Wireless Cameras** capture live video streams.
+
 - **PIR Sensors** detect movement and cue the cameras.
 - **Pan-Tilt Assembly** (servos + brackets) enables active FOV control.
 
