@@ -1,6 +1,6 @@
 ---
 title: "Milestone IP Integration"
-excerpt: "FPGA POS Machine<br/><img src='/images/milestone_sdk.png'>"
+excerpt: " Developed a modular Python library and PyQt5 GUI to seamlessly integrate real-time IP-based video streaming with Milestone’s VMS—overcoming SDK limitations by implementing custom SOAP/TCP messaging, JPEG frame parsing, and multithreaded decoding for low-latency playback.<br/><img src='/images/milestone_sdk.png'>"
 collection: portfolio
 ---
 

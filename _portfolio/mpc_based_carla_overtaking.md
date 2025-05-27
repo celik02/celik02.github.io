@@ -1,6 +1,6 @@
 ---
 title: "MPC-Based Vehicle Overtaking Controller"
-excerpt: "CARLA Overtaking Scenerio<br/><img src='/images/overtaking.png'>"
+excerpt: "This project benchmarks PID, LQR, and MPC controllers for autonomous highway overtaking using a nonlinear bicycle model in the CARLA simulator.<br/><img src='/images/overtaking.png'>"
 collection: portfolio
 ---
 
