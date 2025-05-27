@@ -2,7 +2,7 @@
 title: "Analog Sound Level Indicator Circuit"
 excerpt: "Custom analog sound-level indicator that uses an electret microphone and multi-stage op-amp amplification to classify ambient noise into four thresholds, driving an LED via PWM to visualize sound intensity.<br/><img src='/images/sound_level_comperator_circuit_top.png' style='width: 60%; max-width: 500px; height: auto;'>"
 collection: portfolio
-date: 2020-01-01
+# date: 2020-01-01
 ---
 
 
