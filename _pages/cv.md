@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="float: right; margin-top: -30px; margin-bottom: 20px;">
+  <a href="{{ base_path }}/files/emrullah_celik_resume.pdf" class="btn btn--primary" style="padding: 8px 16px; background-color: #2e8b57; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    <i class="fa fa-download" aria-hidden="true"></i> Download CV as PDF
+  </a>
+</div>
+
 ---
 
 <!-- ## Professional Summary
